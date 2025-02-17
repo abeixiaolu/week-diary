@@ -3,5 +3,7 @@
     "plugins": [
         "prettier-plugin-organize-imports",
         "prettier-plugin-tailwindcss"
-    ]
+    ],
+    "tabWidth": 2,
+    "trailingComma": "all"
 }
